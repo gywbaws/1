@@ -1,0 +1,22 @@
+#maincolumn{
+    float: left;
+    width: 800px;
+    font-size: 100%;
+    font-weight: 600;
+    line-height: 0.3;
+
+}
+#overal_result{
+    float: left;
+    width: 200px;
+    font:500;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    background: #39b54a;
+    color: #fff;
+    width: 100%;
+}
